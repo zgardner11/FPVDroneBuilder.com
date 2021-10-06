@@ -1,0 +1,8 @@
+
+Software
+
+    BLHeli32:
+        -Flash ESC with newest firmware
+        -Change PWM frequency to highest available (for effiency, lower than 96khz for more power but highest available strongly recommended)
+        -Change rampump power to ~30% (LOOKUP)
+        -Change motor timing (LOOKUP)
