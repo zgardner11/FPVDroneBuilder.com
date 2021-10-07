@@ -65,12 +65,13 @@ ul li a {
 .navlinks{
   position: relative;
   right: 0;
-  width: 36%;
+  /* width: 43vh; */
   margin-right: 5rem;
 }
 
 .navlinks ul {
   display: flex; /*align navbar items in horizontal row */
+  width: max-content;
 }
 
 .navlinks ul li{
@@ -78,11 +79,10 @@ ul li a {
 }
 
 .navlinks li a {
-  display:inline flex;
   color: hsla(192, 10%, 90%, 0.979);
   padding: 1rem 4rem;
-  margin: 0 1rem;
-  font-weight: 200;
+  margin: auto 2rem;
+  font-weight: 222;
   position: relative;
 }
 
@@ -95,12 +95,12 @@ ul li a {
   width: 0%;
   content: '.';
   color: transparent;
-  background: rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.952);
   height: 2px;
 }
 
 .navlinks ul li a:hover:after{
-  width: 100%;
+  width: 69%;
 }
 
 nav a,
@@ -124,4 +124,12 @@ nav a:before {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.972);
   border-radius: 10px; /* rounds corners of hamburger menu */
+}
+
+.textinput{
+    display: flex;
+    position: relative;
+    right:5vw;
+    
+
 }
