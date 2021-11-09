@@ -17,7 +17,7 @@ Hardware:
 
         -Button selection that takes user to list of selected component (ex: all ESC's available)
             -On selection: populate DOM with each component available on the market
-                -Add which websites the user can buy the component from
+                -Add which vendors the user can buy the component from
                 -Check for stock availability
            
             -Filter options:
