@@ -1,0 +1,14 @@
+Notes about each component
+
+Frame:
+
+-At first glance, the frame seems to be a relatively straight forward part of the drone. But I presume you are reading this becasue you're smart, so you've learned about judging a book by it's cover. A considerable number of factors, including vibration resonance, wheelbase, arm design, and even mounting options will affect the performance and overall potential of the quad. So if you're anything like me and are looking to gain every bit of performance possible, then here are a few key points to know before purchasing your next frame.
+    -Vibration resonance
+        -An overlooked and understandably difficult concept to understand upon first glance, vibration resonances are one of the more advanced topics to learn about. So try not to snooze off during this next section, since these vibrations play a vital role in keeping your motors cool (ultimately saving you frustration and money spent on new motors) as well as allowing you to optimize your tune to it's full potential. 
+            -I'll keep this concise, since Chris Rosser goes above and beyond in his videos discussing frame resonance and the importance of frame design to minimize vibrations. The vibrations from the motors and the resonances they tend to create will act on different frames in different ways. 
+    -Wheelbase/Frame Size
+        -One important goal of the frame is to maximize the amount of propellor given the overall wheelbase/size. The wheelbase is simply <span> the distance from motor to motor diagonally. </span> (add graphic pop-up on hover) ... 
+            -Let's break down the goal of maximizing propellor size. 
+                -I'm going to take a guess and say you want your drone to fly for as long as possible, right? The answer seems obvious, yet there exists a less obvious way of achieving longer flight times: a larger propellor. Typically, the preconceived notion is to reduce weight for longer flights. But what if I told you that simply choosing the right frame could improve your time in the air while still maintaining the same weight and parts? Imagine being able to use 4 motors screws instead of just 3 and still having enough battery to fly after the first punchout!
+                -Okay so, how does this work exactly?
+                    -
